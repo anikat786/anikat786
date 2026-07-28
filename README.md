@@ -8,7 +8,8 @@
 ## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-5B4E8C?style=flat-square&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/SQL-9A8FC7?style=flat-square&logo=mysql&logoColor=black)
+![Python](https://img.shields.io/badge/Python-5B4E8C?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-9A8FC7?style=flat-square&logo=mysql&logoColor=black)
  
 **Frameworks, Platforms, and Libraries**
 

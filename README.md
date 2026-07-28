@@ -8,28 +8,28 @@
 ## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-5B4E8C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-9A8FC7?style=for-the-badge&logo=mysql&logoColor=black)
+![Python](https://img.shields.io/badge/Python-5B4E8C?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-9A8FC7?style=flat-square&logo=mysql&logoColor=black)
  
 **Frameworks, Platforms, and Libraries**
 
-![NumPy](https://img.shields.io/badge/NumPy-2E6AA8?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-4784BE?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-609FD1?style=for-the-badge&logo=scikitlearn&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-84B9E3?style=for-the-badge&logo=plotly&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-A8CDEE?style=for-the-badge&logo=keras&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-CCE0F5?style=for-the-badge&logo=opencv&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-2E6AA8?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-4784BE?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-609FD1?style=flat-square&logo=scikitlearn&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-84B9E3?style=flat-square&logo=plotly&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-A8CDEE?style=flat-square&logo=keras&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-CCE0F5?style=flat-square&logo=opencv&logoColor=black)
 
 **Software & Tools**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-266052?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-36876A?style=for-the-badge&logo=powerbi&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-46A382?style=for-the-badge&logo=github&logoColor=black)
-![Git](https://img.shields.io/badge/Git-5EBC98?style=for-the-badge&logo=git&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-7CC9AC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-9AD6C0?style=for-the-badge&logo=eclipseide&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-B8E3D4?style=for-the-badge&logo=figma&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-D6F0E8?style=for-the-badge&logo=canva&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-266052?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-36876A?style=flat-square&logo=powerbi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-46A382?style=flat-square&logo=github&logoColor=black)
+![Git](https://img.shields.io/badge/Git-5EBC98?style=flat-square&logo=git&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-7CC9AC?style=flat-square&logo=visualstudiocode&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-9AD6C0?style=flat-square&logo=eclipseide&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-B8E3D4?style=flat-square&logo=figma&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-D6F0E8?style=flat-square&logo=canva&logoColor=black)
 
 ## 👩🏽‍💻 𝗟𝗮𝘁𝗲𝘀𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
@@ -51,7 +51,5 @@ Check it out here! -> <a href="https://github.com/anikat786/telecom-customer-chu
 Feel free to reach out. I'd love to connect!
 
 [<img src="https://img.icons8.com/?size=80&id=13930&format=png&color=000000" height = "100em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/anika-tasmin/)
-&nbsp;&nbsp;
 [<img src="https://img.icons8.com/?size=80&id=P7UIlhbpWzZm&format=png&color=000000" height="100em" align="center" alt="Email" title="Email"/>](mailto:anikatasmin786@gmail.com)
-&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/?size=80&id=12599&format=png&color=FFFFFF" height="85em" align="center" alt="GitHub" title="GitHub"/>](https://github.com/anikat786)

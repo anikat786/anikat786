@@ -37,7 +37,7 @@
 
 A customer analytics project built to strengthen skills in Power BI, DAX, and data storytelling. This project analyzes churn behavior for a telecommunications company, translating customer account and billing data into a clear, interactive dashboard that identifies at-risk customer groups through DAX churn measures, segmentation by contract and service type, and revenue-impact analysis.
 
-<img width="280" height="156" alt="image" src="https://github.com/user-attachments/assets/bda18aa7-91dd-4931-b235-d24b5944c052" />
+<img width="280" height="156" alt="dashboard" src="https://github.com/user-attachments/assets/644df823-f866-47f1-9044-223d25a235cc" />
 
 Check it out here! -> <a href="https://github.com/anikat786/telecom-customer-churn-dashboard" style="color:#fab6fa; border-radius: 4px;"> Telecom Customer Churn Dashboard </a> <br>
 

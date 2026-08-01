@@ -37,7 +37,7 @@
 
 A machine learning project built to strengthen skills in classification modeling, feature engineering, and model evaluation using Pandas, scikit-learn and Keras. This project predicts whether NYC Airbnb listings are high- or low-priced, translating listing, host, and review data into a comparison between Logistic Regression and a neural network to surface the features most associated with higher pricing.
 
-<img width="280" height="156" alt="b6990d59-ce46-4f86-a48a-8f166f11023c" src="https://github.com/user-attachments/assets/8597b1d1-2e3d-4a4f-8e90-51377c8cf8f0" />
+<img width="170" height="156" alt="b6990d59-ce46-4f86-a48a-8f166f11023c" src="https://github.com/user-attachments/assets/8597b1d1-2e3d-4a4f-8e90-51377c8cf8f0" />
 
 Check it out here! -> <a href="https://github.com/anikat786/nyc-airbnb-price-prediction-model" style="color:#fab6fa; border-radius: 4px;"> NYC Airbnb Price Prediction Model </a> <br>
 
